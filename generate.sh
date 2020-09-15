@@ -1,0 +1,1 @@
+protoc productinfopb/productinfoservice.proto --go_out=plugins=grpc:.
